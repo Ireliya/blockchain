@@ -10,10 +10,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * http工具类
- * 
- * @author Ireliya
- *
+ *  @author: Irelia
+ *  @Date: 2019-02-17
+ *  @Description: http工具类
  */
 public class HttpRequest {
 	/**
